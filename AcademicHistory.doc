@@ -10,21 +10,32 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
 <link rel=File-List
-href="12BCE0278_History_22-04-2016_16-48-31_files/filelist.xml">
+href="12BCE0278_History_16-09-2016_17-11-50_files/filelist.xml">
+<link rel=Edit-Time-Data
+href="12BCE0278_History_16-09-2016_17-11-50_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>V-TOP Student Login</title>
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Prashanth</o:Author>
   <o:LastAuthor>Prashanth</o:LastAuthor>
   <o:Revision>2</o:Revision>
   <o:TotalTime>2</o:TotalTime>
-  <o:Created>2016-04-22T11:22:00Z</o:Created>
-  <o:LastSaved>2016-04-22T11:24:00Z</o:LastSaved>
+  <o:Created>2016-09-16T11:50:00Z</o:Created>
+  <o:LastSaved>2016-09-16T11:52:00Z</o:LastSaved>
   <o:Pages>2</o:Pages>
-  <o:Words>598</o:Words>
-  <o:Characters>3415</o:Characters>
-  <o:Lines>28</o:Lines>
+  <o:Words>615</o:Words>
+  <o:Characters>3508</o:Characters>
+  <o:Lines>29</o:Lines>
   <o:Paragraphs>8</o:Paragraphs>
-  <o:CharactersWithSpaces>4005</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>4115</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -32,13 +43,12 @@ href="12BCE0278_History_22-04-2016_16-48-31_files/filelist.xml">
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
 <link rel=themeData
-href="12BCE0278_History_22-04-2016_16-48-31_files/themedata.thmx">
+href="12BCE0278_History_16-09-2016_17-11-50_files/themedata.thmx">
 <link rel=colorSchemeMapping
-href="12BCE0278_History_22-04-2016_16-48-31_files/colorschememapping.xml">
+href="12BCE0278_History_16-09-2016_17-11-50_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Print</w:View>
-  <w:SpellingState>Clean</w:SpellingState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:ValidateAgainstSchemas/>
@@ -69,7 +79,7 @@ href="12BCE0278_History_22-04-2016_16-48-31_files/colorschememapping.xml">
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
-  LatentStyleCount="372">
+  LatentStyleCount="373">
   <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
   <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
   <w:LsdException Locked="false" Priority="9" SemiHidden="true"
@@ -636,6 +646,8 @@ href="12BCE0278_History_22-04-2016_16-48-31_files/colorschememapping.xml">
    Name="List Table 7 Colorful Accent 6"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
  </w:LatentStyles>
 </xml><![endif]-->
 <style>
@@ -915,9 +927,6 @@ p.radio, li.radio, div.radio
 	mso-fareast-theme-font:minor-fareast;
 	mso-bidi-font-family:"Times New Roman";
 	color:black;}
-span.SpellE
-	{mso-style-name:"";
-	mso-spl-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -1022,8 +1031,8 @@ function call_print()
   style='font-size:10.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
   "Times New Roman";color:black'><o:p></o:p></span></b></p>
   <p align=right style='text-align:right'><b><span style='font-size:10.0pt;
-  font-family:"Tahoma",sans-serif;color:black'>Date &amp; Time : 22/04/2016
-  16:48:31</span></b><b><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
+  font-family:"Tahoma",sans-serif;color:black'>Date &amp; Time : 16/09/2016
+  17:11:50</span></b><b><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
   color:black'><o:p></o:p></span></b></p>
   <p class=MsoNormal style='margin-bottom:12.0pt'><b><u><span style='font-size:
   10.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";
@@ -1118,12 +1127,10 @@ function call_print()
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;mso-border-alt:
     inset black .75pt;background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;
     height:18.75pt'>
-    <p class=MsoNormal align=center style='text-align:center'><span
-    class=SpellE><b><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>Sl.No</span></b></span><b><span
+    <p class=MsoNormal align=center style='text-align:center'><b><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>.</span></b><span style='font-size:9.0pt;
-    font-family:"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";
+    "Times New Roman";color:black'>Sl.No.</span></b><span style='font-size:
+    9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";
     color:black'><o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border:inset black 1.0pt;border-left:none;
@@ -1229,10 +1236,8 @@ function call_print()
     mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
-    class=SpellE><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>TheoryLab</span></span><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'><o:p></o:p></span></p>
+    "Times New Roman";color:black'>TheoryLab<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -1381,10 +1386,8 @@ function call_print()
     mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
-    class=SpellE><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>TheoryLab</span></span><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'><o:p></o:p></span></p>
+    "Times New Roman";color:black'>TheoryLab<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -1457,10 +1460,8 @@ function call_print()
     mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
-    class=SpellE><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>TheoryLab</span></span><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'><o:p></o:p></span></p>
+    "Times New Roman";color:black'>TheoryLab<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -1759,10 +1760,8 @@ function call_print()
     mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
-    class=SpellE><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>TheoryLab</span></span><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'><o:p></o:p></span></p>
+    "Times New Roman";color:black'>TheoryLab<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -1836,10 +1835,8 @@ function call_print()
     mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
-    class=SpellE><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>TheoryLab</span></span><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'><o:p></o:p></span></p>
+    "Times New Roman";color:black'>TheoryLab<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -1913,10 +1910,8 @@ function call_print()
     mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
-    class=SpellE><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>TheoryLab</span></span><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'><o:p></o:p></span></p>
+    "Times New Roman";color:black'>TheoryLab<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -1989,10 +1984,8 @@ function call_print()
     mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
-    class=SpellE><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>TheoryLab</span></span><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'><o:p></o:p></span></p>
+    "Times New Roman";color:black'>TheoryLab<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -2214,10 +2207,8 @@ function call_print()
     mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
-    class=SpellE><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>TheoryLab</span></span><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'><o:p></o:p></span></p>
+    "Times New Roman";color:black'>TheoryLab<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -2290,10 +2281,8 @@ function call_print()
     mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
-    class=SpellE><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>TheoryLab</span></span><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'><o:p></o:p></span></p>
+    "Times New Roman";color:black'>TheoryLab<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -2366,10 +2355,8 @@ function call_print()
     mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
-    class=SpellE><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>TheoryLab</span></span><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'><o:p></o:p></span></p>
+    "Times New Roman";color:black'>TheoryLab<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -2442,10 +2429,8 @@ function call_print()
     mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
-    class=SpellE><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>TheoryLab</span></span><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'><o:p></o:p></span></p>
+    "Times New Roman";color:black'>TheoryLab<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -2519,10 +2504,8 @@ function call_print()
     mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
-    class=SpellE><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>TheoryLab</span></span><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'><o:p></o:p></span></p>
+    "Times New Roman";color:black'>TheoryLab<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -2881,6 +2864,81 @@ function call_print()
     height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>CSE399<o:p></o:p></span></p>
+    </td>
+    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
+    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
+    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
+    mso-fareast-font-family:"Times New Roman";color:black'>Industrial
+    Internship<o:p></o:p></span></p>
+    </td>
+    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
+    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
+    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>Lab<o:p></o:p></span></p>
+    </td>
+    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
+    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
+    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>2<o:p></o:p></span></p>
+    </td>
+    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
+    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
+    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>S<o:p></o:p></span></p>
+    </td>
+    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
+    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
+    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>May-2016<o:p></o:p></span></p>
+    </td>
+    <td width=80 style='width:60.0pt;border-top:none;border-left:none;
+    border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
+    inset black .75pt;mso-border-left-alt:inset black .75pt;mso-border-alt:
+    inset black .75pt;background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;
+    height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>18-Jul-2016<o:p></o:p></span></p>
+    </td>
+    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
+    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
+    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:24;height:15.0pt'>
+    <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
+    mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>24<o:p></o:p></span></p>
+    </td>
+    <td width=80 style='width:60.0pt;border-top:none;border-left:none;
+    border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
+    inset black .75pt;mso-border-left-alt:inset black .75pt;mso-border-alt:
+    inset black .75pt;background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;
+    height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
     "Times New Roman";color:black'>CSE404<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
@@ -2940,13 +2998,13 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:24;height:15.0pt'>
+   <tr style='mso-yfti-irow:25;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>24<o:p></o:p></span></p>
+    "Times New Roman";color:black'>25<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -2970,10 +3028,8 @@ function call_print()
     mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
-    class=SpellE><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>TheoryLab</span></span><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'><o:p></o:p></span></p>
+    "Times New Roman";color:black'>TheoryLab<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -3017,13 +3073,13 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:25;height:15.0pt'>
+   <tr style='mso-yfti-irow:26;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>25<o:p></o:p></span></p>
+    "Times New Roman";color:black'>26<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -3091,13 +3147,13 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:26;height:15.0pt'>
+   <tr style='mso-yfti-irow:27;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>26<o:p></o:p></span></p>
+    "Times New Roman";color:black'>27<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -3165,13 +3221,13 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:27;height:15.0pt'>
+   <tr style='mso-yfti-irow:28;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>27<o:p></o:p></span></p>
+    "Times New Roman";color:black'>28<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -3240,83 +3296,6 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:28;height:15.0pt'>
-    <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
-    mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
-    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
-    <p class=MsoNormal align=center style='text-align:center'><span
-    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>28<o:p></o:p></span></p>
-    </td>
-    <td width=80 style='width:60.0pt;border-top:none;border-left:none;
-    border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
-    inset black .75pt;mso-border-left-alt:inset black .75pt;mso-border-alt:
-    inset black .75pt;background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-    height:15.0pt'>
-    <p class=MsoNormal align=center style='text-align:center'><span
-    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>EEE101<o:p></o:p></span></p>
-    </td>
-    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
-    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
-    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
-    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
-    <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>Basic Electrical and
-    Electronics Engineering<o:p></o:p></span></p>
-    </td>
-    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
-    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
-    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
-    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
-    <p class=MsoNormal align=center style='text-align:center'><span
-    class=SpellE><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>TheoryLab</span></span><span
-    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'><o:p></o:p></span></p>
-    </td>
-    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
-    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
-    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
-    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
-    <p class=MsoNormal align=center style='text-align:center'><span
-    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>4<o:p></o:p></span></p>
-    </td>
-    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
-    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
-    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
-    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
-    <p class=MsoNormal align=center style='text-align:center'><span
-    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>A<o:p></o:p></span></p>
-    </td>
-    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
-    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
-    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
-    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
-    <p class=MsoNormal align=center style='text-align:center'><span
-    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>Nov-2012<o:p></o:p></span></p>
-    </td>
-    <td width=80 style='width:60.0pt;border-top:none;border-left:none;
-    border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
-    inset black .75pt;mso-border-left-alt:inset black .75pt;mso-border-alt:
-    inset black .75pt;background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-    height:15.0pt'>
-    <p class=MsoNormal align=center style='text-align:center'><span
-    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>28-Dec-2012<o:p></o:p></span></p>
-    </td>
-    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
-    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
-    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
-    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
-    <p class=MsoNormal align=center style='text-align:center'><span
-    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
-    </td>
-   </tr>
    <tr style='mso-yfti-irow:29;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
@@ -3332,24 +3311,14 @@ function call_print()
     height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>EEE103<o:p></o:p></span></p>
+    "Times New Roman";color:black'>CSE499<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
     mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>Electronics<o:p></o:p></span></p>
-    </td>
-    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
-    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
-    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
-    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
-    <p class=MsoNormal align=center style='text-align:center'><span
-    class=SpellE><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>TheoryLab</span></span><span
-    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'><o:p></o:p></span></p>
+    mso-fareast-font-family:"Times New Roman";color:black'>Project Work<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -3357,7 +3326,7 @@ function call_print()
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>4<o:p></o:p></span></p>
+    "Times New Roman";color:black'>Lab<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -3365,7 +3334,7 @@ function call_print()
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>A<o:p></o:p></span></p>
+    "Times New Roman";color:black'>20<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -3373,7 +3342,15 @@ function call_print()
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>May-2013<o:p></o:p></span></p>
+    "Times New Roman";color:black'>S<o:p></o:p></span></p>
+    </td>
+    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
+    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
+    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>May-2016<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -3382,7 +3359,7 @@ function call_print()
     height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>03-Jul-2013<o:p></o:p></span></p>
+    "Times New Roman";color:black'>18-Jul-2016<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -3408,25 +3385,15 @@ function call_print()
     height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>ENG101_20<o:p></o:p></span></p>
+    "Times New Roman";color:black'>EEE101<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
     mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>English for
-    Engineers - I<o:p></o:p></span></p>
-    </td>
-    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
-    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
-    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
-    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
-    <p class=MsoNormal align=center style='text-align:center'><span
-    class=SpellE><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>TheoryLab</span></span><span
-    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'><o:p></o:p></span></p>
+    mso-fareast-font-family:"Times New Roman";color:black'>Basic Electrical and
+    Electronics Engineering<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -3434,7 +3401,15 @@ function call_print()
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>3<o:p></o:p></span></p>
+    "Times New Roman";color:black'>TheoryLab<o:p></o:p></span></p>
+    </td>
+    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
+    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
+    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>4<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -3485,6 +3460,155 @@ function call_print()
     height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>EEE103<o:p></o:p></span></p>
+    </td>
+    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
+    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
+    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
+    mso-fareast-font-family:"Times New Roman";color:black'>Electronics<o:p></o:p></span></p>
+    </td>
+    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
+    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
+    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>TheoryLab<o:p></o:p></span></p>
+    </td>
+    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
+    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
+    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>4<o:p></o:p></span></p>
+    </td>
+    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
+    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
+    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>A<o:p></o:p></span></p>
+    </td>
+    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
+    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
+    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>May-2013<o:p></o:p></span></p>
+    </td>
+    <td width=80 style='width:60.0pt;border-top:none;border-left:none;
+    border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
+    inset black .75pt;mso-border-left-alt:inset black .75pt;mso-border-alt:
+    inset black .75pt;background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;
+    height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>03-Jul-2013<o:p></o:p></span></p>
+    </td>
+    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
+    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
+    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:32;height:15.0pt'>
+    <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
+    mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>32<o:p></o:p></span></p>
+    </td>
+    <td width=80 style='width:60.0pt;border-top:none;border-left:none;
+    border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
+    inset black .75pt;mso-border-left-alt:inset black .75pt;mso-border-alt:
+    inset black .75pt;background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;
+    height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>ENG101_20<o:p></o:p></span></p>
+    </td>
+    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
+    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
+    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
+    mso-fareast-font-family:"Times New Roman";color:black'>English for
+    Engineers - I<o:p></o:p></span></p>
+    </td>
+    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
+    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
+    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>TheoryLab<o:p></o:p></span></p>
+    </td>
+    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
+    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
+    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>3<o:p></o:p></span></p>
+    </td>
+    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
+    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
+    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>A<o:p></o:p></span></p>
+    </td>
+    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
+    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
+    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>Nov-2012<o:p></o:p></span></p>
+    </td>
+    <td width=80 style='width:60.0pt;border-top:none;border-left:none;
+    border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
+    inset black .75pt;mso-border-left-alt:inset black .75pt;mso-border-alt:
+    inset black .75pt;background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;
+    height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>28-Dec-2012<o:p></o:p></span></p>
+    </td>
+    <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
+    border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
+    mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:33;height:15.0pt'>
+    <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
+    mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
+    background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+    "Times New Roman";color:black'>33<o:p></o:p></span></p>
+    </td>
+    <td width=80 style='width:60.0pt;border-top:none;border-left:none;
+    border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
+    inset black .75pt;mso-border-left-alt:inset black .75pt;mso-border-alt:
+    inset black .75pt;background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;
+    height:15.0pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
     "Times New Roman";color:black'>ENG102_20<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
@@ -3500,10 +3624,8 @@ function call_print()
     mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
-    class=SpellE><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>TheoryLab</span></span><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'><o:p></o:p></span></p>
+    "Times New Roman";color:black'>TheoryLab<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -3547,13 +3669,13 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:32;height:15.0pt'>
+   <tr style='mso-yfti-irow:34;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>32<o:p></o:p></span></p>
+    "Times New Roman";color:black'>34<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -3621,13 +3743,13 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:33;height:15.0pt'>
+   <tr style='mso-yfti-irow:35;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>33<o:p></o:p></span></p>
+    "Times New Roman";color:black'>35<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -3695,13 +3817,13 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:34;height:15.0pt'>
+   <tr style='mso-yfti-irow:36;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>34<o:p></o:p></span></p>
+    "Times New Roman";color:black'>36<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -3770,13 +3892,13 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:35;height:15.0pt'>
+   <tr style='mso-yfti-irow:37;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>35<o:p></o:p></span></p>
+    "Times New Roman";color:black'>37<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -3799,10 +3921,8 @@ function call_print()
     mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
-    class=SpellE><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>TheoryLab</span></span><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'><o:p></o:p></span></p>
+    "Times New Roman";color:black'>TheoryLab<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -3846,13 +3966,13 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:36;height:15.0pt'>
+   <tr style='mso-yfti-irow:38;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>36<o:p></o:p></span></p>
+    "Times New Roman";color:black'>38<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -3921,13 +4041,13 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:37;height:15.0pt'>
+   <tr style='mso-yfti-irow:39;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>37<o:p></o:p></span></p>
+    "Times New Roman";color:black'>39<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -3996,13 +4116,13 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:38;height:15.0pt'>
+   <tr style='mso-yfti-irow:40;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>38<o:p></o:p></span></p>
+    "Times New Roman";color:black'>40<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -4071,13 +4191,13 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:39;height:15.0pt'>
+   <tr style='mso-yfti-irow:41;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>39<o:p></o:p></span></p>
+    "Times New Roman";color:black'>41<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -4145,13 +4265,13 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:40;height:15.0pt'>
+   <tr style='mso-yfti-irow:42;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>40<o:p></o:p></span></p>
+    "Times New Roman";color:black'>42<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -4219,13 +4339,13 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:41;height:15.0pt'>
+   <tr style='mso-yfti-irow:43;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>41<o:p></o:p></span></p>
+    "Times New Roman";color:black'>43<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -4294,13 +4414,13 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:42;height:15.0pt'>
+   <tr style='mso-yfti-irow:44;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>42<o:p></o:p></span></p>
+    "Times New Roman";color:black'>44<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -4369,13 +4489,13 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:43;height:15.0pt'>
+   <tr style='mso-yfti-irow:45;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>43<o:p></o:p></span></p>
+    "Times New Roman";color:black'>45<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -4443,13 +4563,13 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:44;height:15.0pt'>
+   <tr style='mso-yfti-irow:46;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>44<o:p></o:p></span></p>
+    "Times New Roman";color:black'>46<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -4517,13 +4637,13 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:45;height:15.0pt'>
+   <tr style='mso-yfti-irow:47;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>45<o:p></o:p></span></p>
+    "Times New Roman";color:black'>47<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -4591,13 +4711,13 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:46;height:15.0pt'>
+   <tr style='mso-yfti-irow:48;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>46<o:p></o:p></span></p>
+    "Times New Roman";color:black'>48<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -4666,13 +4786,13 @@ function call_print()
     "Times New Roman";color:black'>NIL<o:p></o:p></span></p>
     </td>
    </tr>
-   <tr style='mso-yfti-irow:47;mso-yfti-lastrow:yes;height:15.0pt'>
+   <tr style='mso-yfti-irow:49;mso-yfti-lastrow:yes;height:15.0pt'>
     <td width=54 style='width:40.5pt;border:inset black 1.0pt;border-top:none;
     mso-border-top-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>47<o:p></o:p></span></p>
+    "Times New Roman";color:black'>49<o:p></o:p></span></p>
     </td>
     <td width=80 style='width:60.0pt;border-top:none;border-left:none;
     border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;mso-border-top-alt:
@@ -4695,10 +4815,8 @@ function call_print()
     mso-border-left-alt:inset black .75pt;mso-border-alt:inset black .75pt;
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
-    class=SpellE><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
-    mso-fareast-font-family:"Times New Roman";color:black'>TheoryLab</span></span><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'><o:p></o:p></span></p>
+    "Times New Roman";color:black'>TheoryLab<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -4780,7 +4898,7 @@ function call_print()
     padding:1.5pt 1.5pt 1.5pt 1.5pt;height:18.75pt'>
     <p class=MsoNormal align=center style='text-align:center'><b><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>Rank as of 22/04/2016 16:48:31</span></b><span
+    "Times New Roman";color:black'>Rank as of 16/09/2016 17:11:50</span></b><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
     "Times New Roman";color:black'><o:p></o:p></span></p>
     </td>
@@ -4791,7 +4909,7 @@ function call_print()
     padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>162<o:p></o:p></span></p>
+    "Times New Roman";color:black'>184<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -4799,7 +4917,7 @@ function call_print()
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>162<o:p></o:p></span></p>
+    "Times New Roman";color:black'>184<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -4807,7 +4925,7 @@ function call_print()
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>9.06<o:p></o:p></span></p>
+    "Times New Roman";color:black'>9.18<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -4815,17 +4933,13 @@ function call_print()
     background:white;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>51 out of 518<o:p></o:p></span></p>
+    "Times New Roman";color:black'>39 out of 517<o:p></o:p></span></p>
     </td>
    </tr>
   </table>
-  <p class=MsoNormal style='margin-bottom:12.0pt'><b><span style='font-size:
-  9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";
-  color:black'><br>
-  </span></b><b><u><span style='font-size:10.0pt;font-family:"Tahoma",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:#5F6A89'>Grade Summary :</span></u></b><b><span
-  style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:black'><o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span style='font-size:9.0pt;font-family:"Tahoma",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:black;display:none;
+  mso-hide:all'><o:p>&nbsp;</o:p></span></b></p>
   <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=750
    style='width:562.5pt;border-collapse:collapse;border:none;mso-border-alt:
    outset black .75pt;mso-yfti-tbllook:1184;mso-padding-alt:1.5pt 1.5pt 1.5pt 1.5pt'>
@@ -4900,7 +5014,7 @@ function call_print()
     padding:1.5pt 1.5pt 1.5pt 1.5pt;height:15.0pt'>
     <p class=MsoNormal align=center style='text-align:center'><span
     style='font-size:9.0pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:black'>6<o:p></o:p></span></p>
+    "Times New Roman";color:black'>8<o:p></o:p></span></p>
     </td>
     <td style='border-top:none;border-left:none;border-bottom:inset black 1.0pt;
     border-right:inset black 1.0pt;mso-border-top-alt:inset black .75pt;
@@ -4966,7 +5080,34 @@ function call_print()
 
 </div>
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><script language="JavaScript">
+var arr=[];
+</script><script>
+var start=0;
+var table = document.getElementById("hist");
+for(i=0;i<arr.length;i++)
+{
+	for (j=start;j<table.rows.length;j++)
+	{
+		if (table.rows[j].cells[1].innerHTML==arr[i][0])
+		{
+			if (table.rows[j].cells[5].innerHTML==arr[i][1] && table.rows[j].cells[5].innerHTML=='N')
+			{
+				table.rows[j].cells[5].style.backgroundColor='Yellow';
+				start=j+1;
+				break;
+			}
+			else if (table.rows[j].cells[5].innerHTML==arr[i][1] && table.rows[j].cells[5].innerHTML=='F')
+			{
+				table.rows[j].cells[5].style.backgroundColor='Cyan';
+				start=j+1;
+				break;
+			}
+			
+		}
+	}
+}		
+</script><o:p>&nbsp;</o:p></span></p>
 
 </div>
 
