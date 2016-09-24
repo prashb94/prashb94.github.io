@@ -1,0 +1,1406 @@
+ {
+  "type": "FeatureCollection",
+  "features": [
+ {
+      "type": "Feature",
+      "id": "node/30010976",
+      "properties": {
+        "@id": "node/30010976",
+        "amenity": "atm",
+        "name": "Schaffhauser Kantonalbank",
+        "operator": "SKB",
+        "wheelchair": "limited",
+        "@timestamp": "2013-05-01T16:40:14Z",
+        "@version": "5",
+        "@changeset": "15935858",
+        "@user": "Andy Stricker",
+        "@uid": "7230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6260651,
+          47.6999872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/60030907",
+      "properties": {
+        "@id": "node/60030907",
+        "amenity": "atm",
+        "operator": "Bank Coop",
+        "@timestamp": "2010-10-14T21:22:50Z",
+        "@version": "10",
+        "@changeset": "6043341",
+        "@user": "t-i",
+        "@uid": "52921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5409822,
+          47.4136805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/60673980",
+      "properties": {
+        "@id": "node/60673980",
+        "amenity": "atm",
+        "name": "Schaffhauser Kantonalbank",
+        "@timestamp": "2014-10-20T19:53:20Z",
+        "@version": "8",
+        "@changeset": "26221577",
+        "@user": "bass",
+        "@uid": "13944"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8595394,
+          47.6595048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/60673983",
+      "properties": {
+        "@id": "node/60673983",
+        "amenity": "atm",
+        "bank": "Credit Suisse",
+        "@timestamp": "2012-01-11T02:10:06Z",
+        "@version": "6",
+        "@changeset": "10357318",
+        "@user": "bass_odbl",
+        "@uid": "443980"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8589407,
+          47.6596198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/89266716",
+      "properties": {
+        "@id": "node/89266716",
+        "amenity": "atm",
+        "wheelchair": "yes",
+        "@timestamp": "2014-08-15T20:19:40Z",
+        "@version": "3",
+        "@changeset": "24775253",
+        "@user": "Bullroarer",
+        "@uid": "505667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9814958,
+          47.1826726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/97995355",
+      "properties": {
+        "@id": "node/97995355",
+        "amenity": "atm",
+        "operator": "Glarner Kantonalbank",
+        "@timestamp": "2012-04-16T18:55:34Z",
+        "@version": "3",
+        "@changeset": "11325614",
+        "@user": "dan34",
+        "@uid": "595514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0701074,
+          47.0990616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/132757511",
+      "properties": {
+        "@id": "node/132757511",
+        "amenity": "atm",
+        "created_by": "Potlatch 0.5d",
+        "@timestamp": "2007-11-25T18:08:47Z",
+        "@version": "1",
+        "@changeset": "619257",
+        "@user": "bobo11",
+        "@uid": "16419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5419571,
+          47.5060245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/254172273",
+      "properties": {
+        "@id": "node/254172273",
+        "amenity": "atm",
+        "is_in": "Egliswil",
+        "operator": "Raiffeisen",
+        "wheelchair": "yes",
+        "@timestamp": "2012-10-31T19:22:32Z",
+        "@version": "6",
+        "@changeset": "13703358",
+        "@user": "wheelmap_visitor",
+        "@uid": "290680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1845334,
+          47.3498004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264064840",
+      "properties": {
+        "@id": "node/264064840",
+        "amenity": "atm",
+        "name": "Zürcher Kantonalbank",
+        "operator": "ZKB",
+        "@timestamp": "2013-07-05T17:29:23Z",
+        "@version": "5",
+        "@changeset": "16839173",
+        "@user": "The_Raven",
+        "@uid": "359735"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5924004,
+          47.4135903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264064906",
+      "properties": {
+        "@id": "node/264064906",
+        "amenity": "atm",
+        "name": "CS",
+        "operator": "Credit Suisse",
+        "@timestamp": "2015-01-18T11:25:34Z",
+        "@version": "3",
+        "@changeset": "28227994",
+        "@user": "Roman Fischer",
+        "@uid": "78090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.592041,
+          47.4132399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264794506",
+      "properties": {
+        "@id": "node/264794506",
+        "amenity": "atm",
+        "created_by": "Potlatch 0.9a",
+        "@timestamp": "2008-05-15T23:39:19Z",
+        "@version": "2",
+        "@changeset": "461666",
+        "@user": "RMN",
+        "@uid": "36216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6211569,
+          47.4154724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264794720",
+      "properties": {
+        "@id": "node/264794720",
+        "amenity": "atm",
+        "created_by": "Potlatch 0.9a",
+        "@timestamp": "2008-05-15T23:39:29Z",
+        "@version": "2",
+        "@changeset": "461666",
+        "@user": "RMN",
+        "@uid": "36216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6226676,
+          47.4135035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264794765",
+      "properties": {
+        "@id": "node/264794765",
+        "amenity": "atm",
+        "created_by": "Potlatch 0.9a",
+        "wheelchair": "yes",
+        "@timestamp": "2012-08-19T09:40:51Z",
+        "@version": "3",
+        "@changeset": "12781101",
+        "@user": "wheelmap_visitor",
+        "@uid": "290680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6183932,
+          47.4131376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264794786",
+      "properties": {
+        "@id": "node/264794786",
+        "amenity": "atm",
+        "created_by": "Potlatch 0.9a",
+        "wheelchair": "limited",
+        "@timestamp": "2011-10-22T18:39:26Z",
+        "@version": "2",
+        "@changeset": "9621211",
+        "@user": "wheelmap_visitor",
+        "@uid": "290680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6196377,
+          47.4219014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/265332455",
+      "properties": {
+        "@id": "node/265332455",
+        "amenity": "atm",
+        "@timestamp": "2013-01-01T22:03:08Z",
+        "@version": "2",
+        "@changeset": "14492431",
+        "@user": "Peter31",
+        "@uid": "1175729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9563078,
+          47.5964457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/266630289",
+      "properties": {
+        "@id": "node/266630289",
+        "amenity": "atm",
+        "name": "Postfinance",
+        "wheelchair": "yes",
+        "@timestamp": "2015-01-03T19:18:02Z",
+        "@version": "4",
+        "@changeset": "27894078",
+        "@user": "Pascal Mages",
+        "@uid": "30566"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5096826,
+          47.3780582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/266630771",
+      "properties": {
+        "@id": "node/266630771",
+        "amenity": "atm",
+        "drive_through": "no",
+        "operator": "Postfinance",
+        "@timestamp": "2016-02-01T21:45:45Z",
+        "@version": "3",
+        "@changeset": "36946901",
+        "@user": "MatrixRouter",
+        "@uid": "3581156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4886526,
+          47.3914529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/267343981",
+      "properties": {
+        "@id": "node/267343981",
+        "amenity": "atm",
+        "name": "UBS AG",
+        "@timestamp": "2010-11-15T13:37:46Z",
+        "@version": "3",
+        "@changeset": "6377436",
+        "@user": "Teddych",
+        "@uid": "186651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4878032,
+          47.3928977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/267344361",
+      "properties": {
+        "@id": "node/267344361",
+        "access": "private",
+        "amenity": "atm",
+        "name": "UBS AG",
+        "wheelchair": "limited",
+        "@timestamp": "2012-11-23T21:37:51Z",
+        "@version": "5",
+        "@changeset": "14005357",
+        "@user": "Tric",
+        "@uid": "16008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4947319,
+          47.3830851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/267344383",
+      "properties": {
+        "@id": "node/267344383",
+        "amenity": "atm",
+        "name": "UBS AG",
+        "@timestamp": "2010-01-15T20:59:22Z",
+        "@version": "4",
+        "@changeset": "3627354",
+        "@user": "Tric",
+        "@uid": "16008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4929615,
+          47.3828726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/267345312",
+      "properties": {
+        "@id": "node/267345312",
+        "amenity": "atm",
+        "name": "ZKB",
+        "@timestamp": "2009-07-30T12:45:51Z",
+        "@version": "3",
+        "@changeset": "1984299",
+        "@user": "Kaspar",
+        "@uid": "149248"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5207477,
+          47.3881455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/267345314",
+      "properties": {
+        "@id": "node/267345314",
+        "amenity": "atm",
+        "name": "ZKB",
+        "operator": "ZKB",
+        "wheelchair": "yes",
+        "@timestamp": "2013-01-17T12:09:40Z",
+        "@version": "4",
+        "@changeset": "14683184",
+        "@user": "arx",
+        "@uid": "50044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5196721,
+          47.3868428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/267345856",
+      "properties": {
+        "@id": "node/267345856",
+        "amenity": "atm",
+        "name": "Postomat",
+        "wheelchair": "yes",
+        "@timestamp": "2011-12-09T13:37:03Z",
+        "@version": "3",
+        "@changeset": "10072838",
+        "@user": "wheelmap_visitor",
+        "@uid": "290680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5235774,
+          47.3901783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/267347570",
+      "properties": {
+        "@id": "node/267347570",
+        "amenity": "atm",
+        "layer": "-2",
+        "name": "ZKB",
+        "operator": "ZKB",
+        "wheelchair": "yes",
+        "@timestamp": "2015-10-03T13:50:06Z",
+        "@version": "4",
+        "@changeset": "34407888",
+        "@user": "Rolligirls",
+        "@uid": "3281770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5407228,
+          47.3776444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/267347805",
+      "properties": {
+        "@id": "node/267347805",
+        "amenity": "atm",
+        "layer": "-1",
+        "name": "UBS AG",
+        "operator": "UBS",
+        "@timestamp": "2014-05-18T11:23:20Z",
+        "@version": "5",
+        "@changeset": "22404114",
+        "@user": "Nzara",
+        "@uid": "481380"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5387617,
+          47.3774497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/267348165",
+      "properties": {
+        "@id": "node/267348165",
+        "amenity": "atm",
+        "name": "Postomat",
+        "operator": "Post",
+        "wheelchair": "yes",
+        "@timestamp": "2014-09-10T17:17:31Z",
+        "@version": "3",
+        "@changeset": "25352454",
+        "@user": "wheelmap_android",
+        "@uid": "524500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5400054,
+          47.378387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/267348185",
+      "properties": {
+        "@id": "node/267348185",
+        "amenity": "atm",
+        "name": "Raiffeisen",
+        "operator": "Raiffeisen",
+        "wheelchair": "yes",
+        "@timestamp": "2011-07-16T08:47:34Z",
+        "@version": "4",
+        "@changeset": "8737165",
+        "@user": "wheelmap_visitor",
+        "@uid": "290680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5396944,
+          47.3782076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/267349874",
+      "properties": {
+        "@id": "node/267349874",
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:postcode": "8050",
+        "amenity": "atm",
+        "operator": "ZKB",
+        "wheelchair": "yes",
+        "@timestamp": "2015-02-08T17:31:03Z",
+        "@version": "7",
+        "@changeset": "28707388",
+        "@user": "SimonPoole",
+        "@uid": "92387"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5436692,
+          47.4109236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268130514",
+      "properties": {
+        "@id": "node/268130514",
+        "amenity": "atm",
+        "operator": "St. Galler Kantonalbank",
+        "@timestamp": "2012-11-21T23:57:28Z",
+        "@version": "4",
+        "@changeset": "13977066",
+        "@user": "dbrgn",
+        "@uid": "317694"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8174461,
+          47.2255129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268150525",
+      "properties": {
+        "@id": "node/268150525",
+        "amenity": "atm",
+        "name": "TKB",
+        "wheelchair": "yes",
+        "@timestamp": "2011-10-26T14:34:06Z",
+        "@version": "3",
+        "@changeset": "9657094",
+        "@user": "wheelmap_visitor",
+        "@uid": "290680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1816538,
+          47.6493157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269120254",
+      "properties": {
+        "@id": "node/269120254",
+        "amenity": "atm",
+        "operator": "Bezirkssparkasse Uster",
+        "wheelchair": "yes",
+        "@timestamp": "2012-10-18T22:25:26Z",
+        "@version": "6",
+        "@changeset": "13550797",
+        "@user": "wheelmap_visitor",
+        "@uid": "290680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7166067,
+          47.3513734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269120257",
+      "properties": {
+        "@id": "node/269120257",
+        "amenity": "atm",
+        "operator": "Bezirkssparkasse Uster",
+        "wheelchair": "yes",
+        "@timestamp": "2012-08-25T18:46:54Z",
+        "@version": "5",
+        "@changeset": "12858738",
+        "@user": "Mathias Wittwer",
+        "@uid": "69380"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.715931,
+          47.3496126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269120261",
+      "properties": {
+        "@id": "node/269120261",
+        "amenity": "atm",
+        "created_by": "JOSM",
+        "operator": "Bezirkssparkasse Uster",
+        "@timestamp": "2009-03-01T15:11:43Z",
+        "@version": "2",
+        "@changeset": "711379",
+        "@user": "Oli Sennhauser",
+        "@uid": "44327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7171142,
+          47.3483031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269120262",
+      "properties": {
+        "@id": "node/269120262",
+        "amenity": "atm",
+        "name": "Postomat",
+        "operator": "Post",
+        "wheelchair": "yes",
+        "@timestamp": "2013-01-26T18:23:47Z",
+        "@version": "10",
+        "@changeset": "14796087",
+        "@user": "zacmccormick",
+        "@uid": "492311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7168419,
+          47.3500516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/270798470",
+      "properties": {
+        "@id": "node/270798470",
+        "amenity": "atm",
+        "name": "Luzerner Kantonalbank",
+        "@timestamp": "2012-11-24T15:25:33Z",
+        "@version": "2",
+        "@changeset": "14013761",
+        "@user": "Bullroarer",
+        "@uid": "505667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1029081,
+          47.1727511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/273141711",
+      "properties": {
+        "@id": "node/273141711",
+        "amenity": "atm",
+        "name": "Post",
+        "@timestamp": "2008-06-25T17:37:54Z",
+        "@version": "1",
+        "@changeset": "297069",
+        "@user": "JaR1",
+        "@uid": "43581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2772225,
+          47.3901791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/273466786",
+      "properties": {
+        "@id": "node/273466786",
+        "amenity": "atm",
+        "name": "Post",
+        "@timestamp": "2013-05-08T20:07:22Z",
+        "@version": "5",
+        "@changeset": "16037307",
+        "@user": "Bullroarer",
+        "@uid": "505667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9941791,
+          47.1214447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/276171898",
+      "properties": {
+        "@id": "node/276171898",
+        "amenity": "atm",
+        "drive_through": "yes",
+        "name": "St. Galler Kantonalbank",
+        "wheelchair": "yes",
+        "@timestamp": "2015-10-10T13:40:32Z",
+        "@version": "4",
+        "@changeset": "34549352",
+        "@user": "amilopowers",
+        "@uid": "1514673"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3835908,
+          47.4329589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/277755865",
+      "properties": {
+        "@id": "node/277755865",
+        "amenity": "atm",
+        "name": "Glarner Kantonalbank",
+        "@timestamp": "2008-07-11T16:36:11Z",
+        "@version": "1",
+        "@changeset": "459477",
+        "@user": "Jiuka",
+        "@uid": "8590"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0597585,
+          47.1143543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279824631",
+      "properties": {
+        "@id": "node/279824631",
+        "amenity": "atm",
+        "atm": "yes",
+        "operator": "Schwyzer Kantonalbank",
+        "@timestamp": "2015-01-10T21:19:46Z",
+        "@version": "5",
+        "@changeset": "28050267",
+        "@user": "TJAG",
+        "@uid": "42648"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7574057,
+          47.205769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281389437",
+      "properties": {
+        "@id": "node/281389437",
+        "amenity": "atm",
+        "@timestamp": "2011-02-17T21:21:32Z",
+        "@version": "2",
+        "@changeset": "7317621",
+        "@user": "rockcreek",
+        "@uid": "52015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7047055,
+          47.2067661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281389445",
+      "properties": {
+        "@id": "node/281389445",
+        "amenity": "atm",
+        "@timestamp": "2012-03-08T20:47:06Z",
+        "@version": "3",
+        "@changeset": "10913523",
+        "@user": "dan34",
+        "@uid": "595514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7061139,
+          47.2064672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281389476",
+      "properties": {
+        "@id": "node/281389476",
+        "amenity": "atm",
+        "operator": "Credit Suisse",
+        "@timestamp": "2012-02-28T21:40:18Z",
+        "@version": "7",
+        "@changeset": "10823088",
+        "@user": "dan34",
+        "@uid": "595514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.706039,
+          47.2081859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282655588",
+      "properties": {
+        "@id": "node/282655588",
+        "amenity": "atm",
+        "@timestamp": "2011-05-29T02:58:42Z",
+        "@version": "2",
+        "@changeset": "8277187",
+        "@user": "mdk",
+        "@uid": "178186"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7323853,
+          47.5001374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/283102836",
+      "properties": {
+        "@id": "node/283102836",
+        "amenity": "atm",
+        "operator": "PostFinance",
+        "@timestamp": "2011-08-05T16:49:10Z",
+        "@version": "3",
+        "@changeset": "8930748",
+        "@user": "schmandr",
+        "@uid": "81893"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5240014,
+          47.3928146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/283126105",
+      "properties": {
+        "@id": "node/283126105",
+        "amenity": "atm",
+        "operator": "ZKB",
+        "@timestamp": "2014-12-29T07:28:17Z",
+        "@version": "5",
+        "@changeset": "27770016",
+        "@user": "Sarob",
+        "@uid": "1218134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5247469,
+          47.3930227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/283458328",
+      "properties": {
+        "@id": "node/283458328",
+        "amenity": "atm",
+        "name": "Credit Suisse",
+        "wheelchair": "no",
+        "@timestamp": "2014-07-16T17:07:26Z",
+        "@version": "2",
+        "@changeset": "24184406",
+        "@user": "wheelmap_android",
+        "@uid": "524500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5393275,
+          47.3765364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/283458357",
+      "properties": {
+        "@id": "node/283458357",
+        "amenity": "atm",
+        "name": "Coop Bank",
+        "wheelchair": "yes",
+        "@timestamp": "2015-11-19T21:38:37Z",
+        "@version": "4",
+        "@changeset": "35447665",
+        "@user": "omka",
+        "@uid": "1653294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5378344,
+          47.3748557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/286038269",
+      "properties": {
+        "@id": "node/286038269",
+        "amenity": "atm",
+        "name": "Postomat",
+        "@timestamp": "2008-08-07T21:32:11Z",
+        "@version": "1",
+        "@changeset": "126119",
+        "@user": "lonvia",
+        "@uid": "26726"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5375545,
+          47.3731776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/291130125",
+      "properties": {
+        "@id": "node/291130125",
+        "amenity": "atm",
+        "@timestamp": "2009-07-11T10:04:19Z",
+        "@version": "2",
+        "@changeset": "1795138",
+        "@user": "ykuendig",
+        "@uid": "61077"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5013547,
+          47.5591214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292636537",
+      "properties": {
+        "@id": "node/292636537",
+        "amenity": "atm",
+        "operator": "Credit Suisse",
+        "wheelchair": "yes",
+        "@timestamp": "2016-05-07T10:57:56Z",
+        "@version": "3",
+        "@changeset": "39161024",
+        "@user": "Lynx87",
+        "@uid": "719152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7235468,
+          47.4997602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292636818",
+      "properties": {
+        "@id": "node/292636818",
+        "amenity": "atm",
+        "operator": "Credit Suisse",
+        "wheelchair": "yes",
+        "@timestamp": "2016-08-20T12:55:05Z",
+        "@version": "5",
+        "@changeset": "41575919",
+        "@user": "paschagl",
+        "@uid": "3868994"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7305191,
+          47.4998093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292637870",
+      "properties": {
+        "@id": "node/292637870",
+        "amenity": "atm",
+        "operator": "ZKB",
+        "@timestamp": "2015-04-15T19:57:25Z",
+        "@version": "4",
+        "@changeset": "30248273",
+        "@user": "mstock",
+        "@uid": "79025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7215848,
+          47.499453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292637964",
+      "properties": {
+        "@id": "node/292637964",
+        "amenity": "atm",
+        "operator": "ZKB",
+        "@timestamp": "2016-04-03T13:56:04Z",
+        "@version": "3",
+        "@changeset": "38267427",
+        "@user": "Lirum Larum",
+        "@uid": "214764"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7208912,
+          47.4988412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292641190",
+      "properties": {
+        "@id": "node/292641190",
+        "amenity": "atm",
+        "name": "Raiffeisenbank",
+        "@timestamp": "2010-04-10T23:23:50Z",
+        "@version": "5",
+        "@changeset": "4388463",
+        "@user": "umbi",
+        "@uid": "39380"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0473812,
+          47.3916168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292774636",
+      "properties": {
+        "@id": "node/292774636",
+        "amenity": "atm",
+        "name": "Volksbank",
+        "@timestamp": "2011-07-23T22:10:05Z",
+        "@version": "3",
+        "@changeset": "8810674",
+        "@user": "Blunauer",
+        "@uid": "35468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1989056,
+          47.7054656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/295038929",
+      "properties": {
+        "@id": "node/295038929",
+        "amenity": "atm",
+        "operator": "Thurgauer Kantonalbank",
+        "@timestamp": "2013-01-14T10:35:34Z",
+        "@version": "3",
+        "@changeset": "14646127",
+        "@user": "qpeso",
+        "@uid": "64557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1102637,
+          47.5677521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/295861658",
+      "properties": {
+        "@id": "node/295861658",
+        "amenity": "atm",
+        "@timestamp": "2011-01-10T01:23:51Z",
+        "@version": "2",
+        "@changeset": "6922586",
+        "@user": "mdk",
+        "@uid": "178186"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7259822,
+          47.5007995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297565043",
+      "properties": {
+        "@id": "node/297565043",
+        "amenity": "atm",
+        "name": "Raiffeisen Bank",
+        "@timestamp": "2012-06-14T20:46:19Z",
+        "@version": "2",
+        "@changeset": "11899177",
+        "@user": "rene78",
+        "@uid": "257555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2954214,
+          47.488426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297709646",
+      "properties": {
+        "@id": "node/297709646",
+        "amenity": "atm",
+        "name": "Post",
+        "wheelchair": "limited",
+        "@timestamp": "2012-01-01T21:12:52Z",
+        "@version": "4",
+        "@changeset": "10259953",
+        "@user": "wheelmap_visitor",
+        "@uid": "290680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5310014,
+          47.3646089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297711158",
+      "properties": {
+        "@id": "node/297711158",
+        "amenity": "atm",
+        "name": "Credit Suisse",
+        "@timestamp": "2010-11-15T16:53:38Z",
+        "@version": "4",
+        "@changeset": "6378726",
+        "@user": "Teddych",
+        "@uid": "186651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5334328,
+          47.3663915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/298421278",
+      "properties": {
+        "@id": "node/298421278",
+        "amenity": "atm",
+        "created_by": "Potlatch 0.10b",
+        "name": "Neue aargauer Bank",
+        "@timestamp": "2008-09-20T14:30:50Z",
+        "@version": "1",
+        "@changeset": "668349",
+        "@user": "David Kaufmann",
+        "@uid": "65316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2914194,
+          47.4873019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/298421448",
+      "properties": {
+        "@id": "node/298421448",
+        "amenity": "atm",
+        "name": "Aargauer Kantonalbank",
+        "operator": "Aargauer Kantonalbank",
+        "@timestamp": "2013-04-16T15:55:09Z",
+        "@version": "3",
+        "@changeset": "15751834",
+        "@user": "The_Raven",
+        "@uid": "359735"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2921583,
+          47.4876622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/298750949",
+      "properties": {
+        "@id": "node/298750949",
+        "amenity": "atm",
+        "@timestamp": "2008-09-21T16:19:20Z",
+        "@version": "1",
+        "@changeset": "677710",
+        "@user": "gabisoft",
+        "@uid": "67372"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5393251,
+          47.2888365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/298750950",
+      "properties": {
+        "@id": "node/298750950",
+        "amenity": "atm",
+        "@timestamp": "2010-12-30T18:44:55Z",
+        "@version": "3",
+        "@changeset": "6812726",
+        "@user": "dave_zh",
+        "@uid": "121434"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5400731,
+          47.288714
+        ]
+      }
+    }
+     ]
+}
